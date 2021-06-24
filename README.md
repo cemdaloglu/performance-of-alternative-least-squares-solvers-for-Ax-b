@@ -1,4 +1,4 @@
-# performance-of-alternative-least-squares-solvers-for-Ax-b
+# performance-of-alternative-least-squares-solvers-for-Ax=b
 
 # # Task
 In this project you will investigate the performance of alternative least squares solvers for Ax = b. The
